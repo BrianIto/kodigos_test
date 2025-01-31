@@ -1,0 +1,6 @@
+@kodigos_HostAddress = http://localhost:5287
+
+GET {{kodigos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
